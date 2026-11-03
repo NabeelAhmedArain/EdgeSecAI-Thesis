@@ -1,6 +1,6 @@
 # EdgeSecAI: An Energy-Efficient and Privacy-Aware Federated Learning Framework for Text-Based Content Moderation
 
-**Author:** Nabeel Ahmed (IS-055/2025)  
+**Author:** Nabeel Ahmed  
 **Degree:** MS Information Security  
 **University:** NED University of Engineering & Technology  
 **Supervisor:** Dr. Abdul Karim
