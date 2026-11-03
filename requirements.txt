@@ -1,0 +1,11 @@
+transformers
+datasets
+opacus==1.6.0
+flwr
+scikit-learn
+pandas
+torch
+rouge-score
+matplotlib
+seaborn
+numpy
