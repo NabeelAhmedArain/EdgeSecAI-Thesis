@@ -35,7 +35,7 @@ EdgeSecAI is a Federated Learning (FL) framework designed for edge-based AI cont
    git clone https://github.com/your-username/EdgeSecAI-MS-Thesis.git# EdgeSecAI-Thesis
 Energy-Efficient and Privacy-Aware Federated Learning Framework for Edge-Based Content Moderation.
 
-2. Install Dependencies
+2. Install Dependencies:
    pip install -r requirements.txt
 
 3. Download the HatEval and OLID datasets and place them in a ./data folder.
